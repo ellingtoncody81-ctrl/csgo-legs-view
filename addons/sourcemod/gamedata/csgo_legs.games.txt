@@ -1,0 +1,23 @@
+"Games"
+{
+	"csgo"
+	{
+		"Signatures"
+		{
+			"CBaseAnimating::SetupBones"
+			{
+				"library"	"client"
+				"windows"	"\x55\x8B\xEC\x83\xE4\xF0\xB8\xD8\x1C\x00\x00\xE8\x2A\x2A\x2A\x2A\x56\x57\x8B\xF9"
+			}
+		}
+		"Offsets"
+		{
+			"CBaseAnimating::SetupBones_Off"
+			{
+				"library"	"client"
+				"windows"	"0x1D3140"
+				"linux"		"0x1D3140"
+			}
+		}
+	}
+}

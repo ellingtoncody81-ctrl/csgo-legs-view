@@ -1,0 +1,19 @@
+# 编译中间产物
+*.obj
+*.lib
+*.exp
+*.pdb
+*.idb
+*.ilk
+*.o
+*.tlog
+*.lastbuildstate
+
+# Python
+__pycache__/
+*.pyc
+
+# 编辑器
+.vscode/
+.idea/
+*.swp
