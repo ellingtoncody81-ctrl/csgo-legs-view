@@ -5,6 +5,11 @@
 > 能跑（能看到腿实体 + 动画同步 + 上半身骨骼隐藏尝试），但存在已知问题（见下）。
 > It runs (leg entity + animation sync + upper-body bone collapse attempts), but has known issues (see below).
 
+> **免责声明 / Disclaimer**: 仅供单机 & 学习研究使用（local / educational research only）。
+> 禁止用于任何网络对战、作弊或违反游戏服务条款的用途，风险自负。
+> For local/offline & educational research only. NOT for online matches, cheating,
+> or any use against game terms of service. Use at your own risk.
+
 ---
 
 ## 目标 / Goal
